@@ -27,4 +27,4 @@ replace_path="history/advisors"
 
 #replace_path="gfx/loadingscreens"
 
-#picture="tbd.png"
+##picture="tbd.png"
